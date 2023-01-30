@@ -1,4 +1,4 @@
-# discover-04-HTML-Challenges
+# discover-04-HTML-challenges
 
 Some extreme basic HTML exercises. The following list describes what each exercise is: 
 
